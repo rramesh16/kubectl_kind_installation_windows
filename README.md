@@ -1,8 +1,9 @@
 # Installing Kubectl and Kind on Windows
-
-## Install Chocolatey
 ### Requirements:
 - Windows 7+ / Windows Server 2003+
+- PowerShell v2+
+
+## Install Chocolatey
 
 ### Install with cmd.exe
 - Run cmd.exe as an Administrator - to avoid permission issues
